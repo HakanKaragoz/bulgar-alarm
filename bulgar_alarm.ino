@@ -4,7 +4,7 @@
 
 #define WIFI_SSID "wifi_ID"
 #define WIFI_PASSWORD "wifi_Password"
-#define BOT_TOKEN "1489007158:AAFyzDQL0MM-FTlGJSzo-ek-n9sIL1XpZEM"
+#define BOT_TOKEN "private_Token"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 WiFiClientSecure secured_client;
