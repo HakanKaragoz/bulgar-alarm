@@ -2,8 +2,8 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-#define WIFI_SSID "TURKSAT-KABLONET-0069-2.4G"
-#define WIFI_PASSWORD "4f9f4ff9"
+#define WIFI_SSID "wifi_ID"
+#define WIFI_PASSWORD "wifi_Password"
 #define BOT_TOKEN "1489007158:AAFyzDQL0MM-FTlGJSzo-ek-n9sIL1XpZEM"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
